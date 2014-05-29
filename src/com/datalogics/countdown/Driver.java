@@ -20,7 +20,7 @@ public class Driver {
 		System.out.println("Hello, Git!");
 		System.out.println("Let's count down from 100 to 1 and print every number not divisible by 7...");
 
-		// TODO: implement me!
+		countdownSkip7();
 	}
 
 }
