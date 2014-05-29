@@ -3,6 +3,13 @@ package com.datalogics.countdown;
 public class Driver {
 
 	/**
+	 * Counts down from 100 to 1 and prints every number not divisible by 7.
+	 */
+	private static void countdownSkip7() {
+
+	}
+
+	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
